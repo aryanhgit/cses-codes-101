@@ -1,11 +1,11 @@
 # CSES Solutions
 
-Over 20 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in 2025-26 (well mostly in 2026):. As of `2026-02-10`, the following number of solutions have been completed:
+Over 20 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in 2025-26 (well mostly in 2026):. As of `2026-02-16`, the following number of solutions have been completed:
 
 | Problem Type            | Number Solved |
 |-------------------------|:-------------:|
-| Introductory Problems   |     22/24     |
-| Sorting and Searching   |     0/35     |
+| Introductory Problems   |     24/24     |
+| Sorting and Searching   |     10/35     |
 | Dynamic Programming     |     0/23     |
 | Graph Algorithms        |     0/36     |
 | Range Queries           |     0/25     |
